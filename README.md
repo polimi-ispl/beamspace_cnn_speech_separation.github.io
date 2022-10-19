@@ -4,4 +4,4 @@ The problems of speech separation and enhancement concern the extraction of the 
 
 
 ### Method
-![Image](images/figures/pipeline.png)
+![Image](figures/pipeline.png)

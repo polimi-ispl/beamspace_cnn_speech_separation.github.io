@@ -2,3 +2,4 @@ theme: minima
 title: Real-Time Multichannel Speech Separation and Enhancement using a Beamspace-Domain-based lightweight CNN 
 description: Bookmark this to keep an eye on my project updates!
 header_pages:
+  -about.md

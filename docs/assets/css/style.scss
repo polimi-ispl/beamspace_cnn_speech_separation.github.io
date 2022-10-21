@@ -6,3 +6,7 @@ $content-width: 100%;
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+.inner {
+  max-width: 75%;
+}

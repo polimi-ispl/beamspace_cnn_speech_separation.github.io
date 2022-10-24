@@ -9,6 +9,9 @@ The problems of speech separation and enhancement concern the extraction of the 
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">
   <!-- SETUP -->
   <tr> 
+    <th colspan="4" style="text-align:center;">EXAMPLE 1</th>
+  </tr>
+  <tr>
     <td>
       Setup
     </td>
@@ -30,10 +33,26 @@ The problems of speech separation and enhancement concern the extraction of the 
       </audio>
     </td>
   </tr>
+  <!-- TITLE 
+  <tr> 
+    <td>
+      Dataset
+    </td>
+    <td>
+      Mixture Beamspace
+    </td>
+    <td>
+      NBDF method
+    </td>
+    <td>
+      Proposed method
+    </td>
+  </tr>
+  -->
   <!-- DATASET 1 -->
   <tr> 
     <td>
-      I = 4 </br>
+      I = 4 <br>
       d = 26mm
     </td>
     <td>
@@ -61,7 +80,7 @@ The problems of speech separation and enhancement concern the extraction of the 
   <!-- DATASET 2 -->
   <tr> 
     <td>
-      I = 3 </br>
+      I = 3 <br>
       d = 52mm
     </td>
     <td>
@@ -89,7 +108,7 @@ The problems of speech separation and enhancement concern the extraction of the 
   <!-- DATASET 3 -->
   <tr> 
     <td>
-      I = 4 </br>
+      I = 4 <br>
       d = 52mm
     </td>
     <td>

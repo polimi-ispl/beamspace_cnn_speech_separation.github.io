@@ -3,3 +3,5 @@ The problems of speech separation and enhancement concern the extraction of the 
 
 ### Method
 ![Image](figures/pipeline.png)
+
+### Listening tests

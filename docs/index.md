@@ -14,6 +14,6 @@ Your browser does not support the audio element.
 
 | Setup                     | Mixture mic 1   | Desired Target      |
 | :----:                    |    :----:       |     :----:          |
-| <img src="examples/ex1/ds1/setup.png" title="setup" width="50%"/>     | <img src="examples/ex1/ds1/Mixture_Mic_0.png" title="mic0" width="100%"/> | <img src="examples/ex1/ds1/Target_beamspace.png" title="target" width="100%"/> |
+| <img src="examples/ex1/ds1/setup.png" title="setup" width="50%"/>     | ![Image](examples/ex1/ds1/Mixture_Mic_0.png) | ![Image](examples/ex1/ds1/Target_beamspace.png)|
 | **Mixture beamsapce**     | **NBDF method** | **Proposed method** |
 

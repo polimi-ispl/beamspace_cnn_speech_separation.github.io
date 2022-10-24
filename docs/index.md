@@ -7,13 +7,13 @@ The problems of speech separation and enhancement concern the extraction of the 
 # Listening tests
 
 <audio controls>
-<source src="../examples/ex1/ds1/mixture_mic0.wav" type="audio/mpeg">
+<source src="examples/ex1/ds1/mixture_mic0.wav" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
 
 
 | Setup                     | Mixture mic 1   | Desired Target      |
 | :----:                    |    :----:       |     :----:          |
-| <img src="../examples/ex1/ds1/setup.png" title="setup" width="50%"/>     | <img src="../examples/ex1/ds1/Mixture_Mic_0.png" title="mic0" width="100%"/> | <img src="../examples/ex1/ds1/Target_beamspace.png" title="target" width="100%"/> |
+| <img src="examples/ex1/ds1/setup.png" title="setup" width="50%"/>     | <img src="examples/ex1/ds1/Mixture_Mic_0.png" title="mic0" width="100%"/> | <img src="examples/ex1/ds1/Target_beamspace.png" title="target" width="100%"/> |
 | **Mixture beamsapce**     | **NBDF method** | **Proposed method** |
 

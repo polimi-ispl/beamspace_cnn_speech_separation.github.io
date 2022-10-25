@@ -153,7 +153,7 @@ The problems of speech separation and enhancement concern the extraction of the 
     <td>
       <img src="examples/exs2/ds1/mixture_mic0.png" title="mic0" width="100%"/>
       <audio controls>
-        <source src="examples/exs1/ds1/mixture_mic0.wav" type="audio/mpeg">
+        <source src="examples/exs2/ds1/mixture_mic0.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -190,7 +190,7 @@ The problems of speech separation and enhancement concern the extraction of the 
     <td>
       <img src="examples/exs2/ds1/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
       <audio controls>
-        <source src="examples/exs1/ds1/mixture_beamspace.wav" type="audio/mpeg">
+        <source src="examples/exs2/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -218,7 +218,7 @@ The problems of speech separation and enhancement concern the extraction of the 
     <td>
       <img src="examples/exs2/ds2/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
       <audio controls>
-        <source src="examples/exs1/ds2/mixture_beamspace.wav" type="audio/mpeg">
+        <source src="examples/exs2/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
     </td>

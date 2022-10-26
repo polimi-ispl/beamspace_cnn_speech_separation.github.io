@@ -71,7 +71,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=-3.24dB | SDR=-3.24dB
+      SDR=-3.24dB
     </td>
     <td>
       <img src="examples/exs1/ds1/nbdf.png" title="nbdf" width="100%"/>
@@ -79,7 +79,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds1/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=3.75dB | SDR=-0.86dB
+      SDR=-0.86dB
     </td>
     <td>
       <img src="examples/exs1/ds1/proposed.png" title="target" width="100%"/>
@@ -87,7 +87,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds1/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=1.35dB | SDR=-0.23dB
+      SDR=-0.23dB
     </td>
   </tr>
   <!-- DATASET 2 -->
@@ -102,7 +102,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=0.74dB | SDR=0.74dB
+      SDR=0.74dB
     </td>
     <td>
       <img src="examples/exs1/ds2/nbdf.png" title="nbdf" width="100%"/>
@@ -110,7 +110,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds2/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=6.74dB | SDR=3.64dB
+      SDR=3.64dB
     </td>
     <td>
       <img src="examples/exs1/ds2/proposed.png" title="target" width="100%"/>
@@ -118,7 +118,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds2/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=5.4dB | SDR=4.05dB
+      SDR=4.05dB
     </td>
   </tr>
   <!-- DATASET 3 -->
@@ -133,7 +133,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds3/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=1.08dB | SDR=1.08dB
+      SDR=1.08dB
     </td>
     <td>
       <img src="examples/exs1/ds3/nbdf.png" title="nbdf" width="100%"/>
@@ -141,7 +141,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds3/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=4.8dB | SDR=0.29dB
+      SDR=0.29dB
     </td>
     <td>
       <img src="examples/exs1/ds3/proposed.png" title="target" width="100%"/>
@@ -149,7 +149,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds3/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
-      SIR=2.27dB | SDR=1.1dB
+      SDR=1.1dB
     </td>
   </tr>
 </table>
@@ -213,6 +213,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=3.64dB
     </td>
     <td>
       <img src="examples/exs2/ds1/nbdf.png" title="nbdf" width="100%"/>
@@ -220,6 +221,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds1/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=0.23dB
     </td>
     <td>
       <img src="examples/exs2/ds1/proposed.png" title="target" width="100%"/>
@@ -227,6 +229,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds1/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=4.51dB
     </td>
   </tr>
   <!-- DATASET 2 -->
@@ -241,6 +244,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=3.77dB
     </td>
     <td>
       <img src="examples/exs2/ds2/nbdf.png" title="nbdf" width="100%"/>
@@ -248,6 +252,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds2/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=2.92dB
     </td>
     <td>
       <img src="examples/exs2/ds2/proposed.png" title="target" width="100%"/>
@@ -255,6 +260,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds2/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=8.08dB
     </td>
   </tr>
   <!-- DATASET 3 -->
@@ -269,6 +275,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds3/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=3.55dB
     </td>
     <td>
       <img src="examples/exs2/ds3/nbdf.png" title="nbdf" width="100%"/>
@@ -276,6 +283,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds3/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=1.09dB
     </td>
     <td>
       <img src="examples/exs2/ds3/proposed.png" title="target" width="100%"/>
@@ -283,6 +291,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs2/ds3/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=4.42dB
     </td>
   </tr>
 </table>
@@ -346,6 +355,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi= -
     </td>
     <td>
       <img src="examples/exs3/ds1/nbdf.png" title="nbdf" width="100%"/>
@@ -353,6 +363,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds1/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi=-1.86db
     </td>
     <td>
       <img src="examples/exs3/ds1/proposed.png" title="target" width="100%"/>
@@ -360,6 +371,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds1/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi=-5.53db
     </td>
   </tr>
   <!-- DATASET 2 -->
@@ -374,6 +386,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi= -
     </td>
     <td>
       <img src="examples/exs3/ds2/nbdf.png" title="nbdf" width="100%"/>
@@ -381,6 +394,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds2/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi=-0.5db
     </td>
     <td>
       <img src="examples/exs3/ds2/proposed.png" title="target" width="100%"/>
@@ -388,6 +402,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds2/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi=-2.48db
     </td>
   </tr>
   <!-- DATASET 3 -->
@@ -402,6 +417,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds3/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi= -
     </td>
     <td>
       <img src="examples/exs3/ds3/nbdf.png" title="nbdf" width="100%"/>
@@ -409,6 +425,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds3/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi=-0.06db
     </td>
     <td>
       <img src="examples/exs3/ds3/proposed.png" title="target" width="100%"/>
@@ -416,6 +433,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs3/ds3/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_soi=-5.54db
     </td>
   </tr>
 </table>
@@ -479,6 +497,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=4.87dB
     </td>
     <td>
       <img src="examples/exs4/ds1/nbdf.png" title="nbdf" width="100%"/>
@@ -486,6 +505,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds1/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=1.84dB
     </td>
     <td>
       <img src="examples/exs4/ds1/proposed.png" title="target" width="100%"/>
@@ -493,6 +513,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds1/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=2.06dB
     </td>
   </tr>
   <!-- DATASET 2 -->
@@ -507,6 +528,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=4.58dB
     </td>
     <td>
       <img src="examples/exs4/ds2/nbdf.png" title="nbdf" width="100%"/>
@@ -514,6 +536,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds2/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=5.06dB
     </td>
     <td>
       <img src="examples/exs4/ds2/proposed.png" title="target" width="100%"/>
@@ -521,6 +544,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds2/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=5.14dB
     </td>
   </tr>
   <!-- DATASET 3 -->
@@ -535,6 +559,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds3/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=5.05dB
     </td>
     <td>
       <img src="examples/exs4/ds3/nbdf.png" title="nbdf" width="100%"/>
@@ -542,6 +567,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds3/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=1.33dB
     </td>
     <td>
       <img src="examples/exs4/ds3/proposed.png" title="target" width="100%"/>
@@ -549,6 +575,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs4/ds3/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SDR=3.87dB
     </td>
   </tr>
 </table>
@@ -612,6 +639,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf= - 
     </td>
     <td>
       <img src="examples/exs5/ds1/nbdf.png" title="nbdf" width="100%"/>
@@ -619,6 +647,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds1/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-7.88dB
     </td>
     <td>
       <img src="examples/exs5/ds1/proposed.png" title="target" width="100%"/>
@@ -626,6 +655,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds1/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-13.98dB
     </td>
   </tr>
   <!-- DATASET 2 -->
@@ -640,6 +670,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf= -
     </td>
     <td>
       <img src="examples/exs5/ds2/nbdf.png" title="nbdf" width="100%"/>
@@ -647,6 +678,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds2/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-12.04dB
     </td>
     <td>
       <img src="examples/exs5/ds2/proposed.png" title="target" width="100%"/>
@@ -654,6 +686,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds2/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-12.59dB
     </td>
   </tr>
   <!-- DATASET 3 -->
@@ -668,6 +701,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds3/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf= -
     </td>
     <td>
       <img src="examples/exs5/ds3/nbdf.png" title="nbdf" width="100%"/>
@@ -675,6 +709,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds3/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-13.46dB
     </td>
     <td>
       <img src="examples/exs5/ds3/proposed.png" title="target" width="100%"/>
@@ -682,6 +717,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs5/ds3/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-13.68dB
     </td>
   </tr>
 </table>
@@ -745,6 +781,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf= -
     </td>
     <td>
       <img src="examples/exs6/ds1/nbdf.png" title="nbdf" width="100%"/>
@@ -752,6 +789,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds1/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-38.16dB
     </td>
     <td>
       <img src="examples/exs6/ds1/proposed.png" title="target" width="100%"/>
@@ -759,6 +797,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds1/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-43.03dB
     </td>
   </tr>
   <!-- DATASET 2 -->
@@ -773,6 +812,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf= -
     </td>
     <td>
       <img src="examples/exs6/ds2/nbdf.png" title="nbdf" width="100%"/>
@@ -780,6 +820,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds2/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-24.94dB
     </td>
     <td>
       <img src="examples/exs6/ds2/proposed.png" title="target" width="100%"/>
@@ -787,6 +828,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds2/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-17.58dB
     </td>
   </tr>
   <!-- DATASET 3 -->
@@ -801,6 +843,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds3/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf= - 
     </td>
     <td>
       <img src="examples/exs6/ds3/nbdf.png" title="nbdf" width="100%"/>
@@ -808,6 +851,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds3/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-27.78dB
     </td>
     <td>
       <img src="examples/exs6/ds3/proposed.png" title="target" width="100%"/>
@@ -815,6 +859,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs6/ds3/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      R_interf=-22.11dB
     </td>
   </tr>
 </table>

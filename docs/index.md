@@ -71,6 +71,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds1/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=-3.24dB | SDR=-3.24dB
     </td>
     <td>
       <img src="examples/exs1/ds1/nbdf.png" title="nbdf" width="100%"/>
@@ -78,6 +79,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds1/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=3.75dB | SDR=-0.86dB
     </td>
     <td>
       <img src="examples/exs1/ds1/proposed.png" title="target" width="100%"/>
@@ -85,6 +87,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds1/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=1.35dB | SDR=-0.23dB
     </td>
   </tr>
   <!-- DATASET 2 -->
@@ -99,6 +102,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds2/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=0.74dB | SDR=0.74dB
     </td>
     <td>
       <img src="examples/exs1/ds2/nbdf.png" title="nbdf" width="100%"/>
@@ -106,6 +110,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds2/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=6.74dB | SDR=3.64dB
     </td>
     <td>
       <img src="examples/exs1/ds2/proposed.png" title="target" width="100%"/>
@@ -113,6 +118,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds2/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=5.4dB | SDR=4.05dB
     </td>
   </tr>
   <!-- DATASET 3 -->
@@ -127,6 +133,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds3/mixture_beamspace.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=1.08dB | SDR=1.08dB
     </td>
     <td>
       <img src="examples/exs1/ds3/nbdf.png" title="nbdf" width="100%"/>
@@ -134,6 +141,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds3/nbdf.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=4.8dB | SDR=0.29dB
     </td>
     <td>
       <img src="examples/exs1/ds3/proposed.png" title="target" width="100%"/>
@@ -141,6 +149,7 @@ and I=3, I=4 with d=52mm.
         <source src="examples/exs1/ds3/proposed.wav" type="audio/mpeg">
         Your browser does not support the audio element.
       </audio>
+      SIR=2.27dB | SDR=1.1dB
     </td>
   </tr>
 </table>

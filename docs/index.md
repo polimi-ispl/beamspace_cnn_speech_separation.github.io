@@ -8,10 +8,10 @@ The problems of speech separation and enhancement concern the extraction of the 
 Here below we report some audio examples along with the spectrogram of the signals. <br>
 
 For each example the setup, the mixture at the first microhone and the desired target are depicted. <br>
-We compare the results of the proposed method with the NBDF approach and the mixture beamformer steered to $\theta_b = 90^{\circ}$, denoted as $\tilde{\mathbf{Y}}_{90^{\circ}}$.
+We compare the results of the proposed method with the NBDF approach and the mixture beamformer steered to 90°.
 
-FOr each setup we report the comparison between the three array configuration used in the validation. Hence, $I = 4$ with $d = 26 \mathrm{mm}$,
-and $I = 3$, $I = 4$ with $d = 52 \mathrm{mm}$.
+For each setup we report the comparison between the three array configuration used in the validation. Hence, I=4 with d=26mm,
+and I=3, I=4 with d=52mm.
 
 <!-- ***************************************** EXAMPLE 1 *************************************************** -->
 <table style="width: 100%; table-layout: fixed; word-wrap: normal;">

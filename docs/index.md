@@ -273,3 +273,528 @@ and I=3, I=4 with d=52mm.
     </td>
   </tr>
 </table>
+
+<!-- ***************************************** EXAMPLE 3 *************************************************** -->
+<hr />
+<table style="width: 100%; table-layout: fixed; word-wrap: normal;">
+  <!-- SETUP -->
+  <tr> 
+    <th colspan="4" style="text-align:center;">EXAMPLE 3</th>
+  </tr>
+  <tr>
+    <td>
+      Setup
+    </td>
+    <td>
+      <img src="examples/exs3/ds1/setup.png" title="setup" width="100%"/>
+    </td>
+    <td>
+      <img src="examples/exs3/ds1/mixture_mic0.png" title="mic0" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds1/mixture_mic0.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs3/ds1/target_beamspace.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds1/target_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- TITLE 
+  <tr> 
+    <td>
+      Dataset
+    </td>
+    <td>
+      Mixture Beamspace
+    </td>
+    <td>
+      NBDF method
+    </td>
+    <td>
+      Proposed method
+    </td>
+  </tr>
+  -->
+  <!-- DATASET 1 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 26mm
+    </td>
+    <td>
+      <img src="examples/exs3/ds1/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds1/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs3/ds1/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds1/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs3/ds1/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds1/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 2 -->
+  <tr> 
+    <td>
+      I = 3 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs3/ds2/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds2/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs3/ds2/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds2/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs3/ds2/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds2/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 3 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs3/ds3/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds3/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs3/ds3/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds3/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs3/ds3/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs3/ds3/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
+<!-- ***************************************** EXAMPLE 4 *************************************************** -->
+<hr />
+<table style="width: 100%; table-layout: fixed; word-wrap: normal;">
+  <!-- SETUP -->
+  <tr> 
+    <th colspan="4" style="text-align:center;">EXAMPLE 4</th>
+  </tr>
+  <tr>
+    <td>
+      Setup
+    </td>
+    <td>
+      <img src="examples/exs4/ds1/setup.png" title="setup" width="100%"/>
+    </td>
+    <td>
+      <img src="examples/exs4/ds1/mixture_mic0.png" title="mic0" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds1/mixture_mic0.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs4/ds1/target_beamspace.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds1/target_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- TITLE 
+  <tr> 
+    <td>
+      Dataset
+    </td>
+    <td>
+      Mixture Beamspace
+    </td>
+    <td>
+      NBDF method
+    </td>
+    <td>
+      Proposed method
+    </td>
+  </tr>
+  -->
+  <!-- DATASET 1 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 26mm
+    </td>
+    <td>
+      <img src="examples/exs4/ds1/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds1/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs4/ds1/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds1/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs4/ds1/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds1/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 2 -->
+  <tr> 
+    <td>
+      I = 3 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs4/ds2/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds2/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs4/ds2/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds2/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs4/ds2/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds2/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 3 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs4/ds3/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds3/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs4/ds3/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds3/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs4/ds3/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs4/ds3/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
+<!-- ***************************************** EXAMPLE 5 *************************************************** -->
+<hr />
+<table style="width: 100%; table-layout: fixed; word-wrap: normal;">
+  <!-- SETUP -->
+  <tr> 
+    <th colspan="4" style="text-align:center;">EXAMPLE 5</th>
+  </tr>
+  <tr>
+    <td>
+      Setup
+    </td>
+    <td>
+      <img src="examples/exs5/ds1/setup.png" title="setup" width="100%"/>
+    </td>
+    <td>
+      <img src="examples/exs5/ds1/mixture_mic0.png" title="mic0" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds1/mixture_mic0.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs5/ds1/target_beamspace.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds1/target_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- TITLE 
+  <tr> 
+    <td>
+      Dataset
+    </td>
+    <td>
+      Mixture Beamspace
+    </td>
+    <td>
+      NBDF method
+    </td>
+    <td>
+      Proposed method
+    </td>
+  </tr>
+  -->
+  <!-- DATASET 1 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 26mm
+    </td>
+    <td>
+      <img src="examples/exs5/ds1/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds1/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs5/ds1/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds1/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs5/ds1/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds1/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 2 -->
+  <tr> 
+    <td>
+      I = 3 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs5/ds2/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds2/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs5/ds2/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds2/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs5/ds2/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds2/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 3 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs5/ds3/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds3/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs5/ds3/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds3/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs5/ds3/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs5/ds3/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
+<!-- ***************************************** EXAMPLE 6 *************************************************** -->
+<hr />
+<table style="width: 100%; table-layout: fixed; word-wrap: normal;">
+  <!-- SETUP -->
+  <tr> 
+    <th colspan="4" style="text-align:center;">EXAMPLE 6</th>
+  </tr>
+  <tr>
+    <td>
+      Setup
+    </td>
+    <td>
+      <img src="examples/exs6/ds1/setup.png" title="setup" width="100%"/>
+    </td>
+    <td>
+      <img src="examples/exs6/ds1/mixture_mic0.png" title="mic0" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds1/mixture_mic0.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs6/ds1/target_beamspace.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds1/target_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- TITLE 
+  <tr> 
+    <td>
+      Dataset
+    </td>
+    <td>
+      Mixture Beamspace
+    </td>
+    <td>
+      NBDF method
+    </td>
+    <td>
+      Proposed method
+    </td>
+  </tr>
+  -->
+  <!-- DATASET 1 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 26mm
+    </td>
+    <td>
+      <img src="examples/exs6/ds1/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds1/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs6/ds1/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds1/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs6/ds1/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds1/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 2 -->
+  <tr> 
+    <td>
+      I = 3 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs6/ds2/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds2/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs6/ds2/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds2/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs6/ds2/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds2/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <!-- DATASET 3 -->
+  <tr> 
+    <td>
+      I = 4 <br>
+      d = 52mm
+    </td>
+    <td>
+      <img src="examples/exs6/ds3/mixture_beamspace.png" title="mix_beamspace" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds3/mixture_beamspace.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs6/ds3/nbdf.png" title="nbdf" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds3/nbdf.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <img src="examples/exs6/ds3/proposed.png" title="target" width="100%"/>
+      <audio controls>
+        <source src="examples/exs6/ds3/proposed.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+

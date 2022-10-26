@@ -7,7 +7,7 @@ The problems of speech separation and enhancement concern the extraction of the 
 # Listening tests
 Here below we report some audio examples along with the spectrogram of the signals. <br>
 
-For each example the setup, the mixture at the first microhone and the desired target are depicted. <br>
+For each example the setup with the numner of interferers R, the mixture at the first microhone and the desired target are depicted. <br>
 We compare the results of the proposed method with the NBDF approach and the mixture beamformer steered to 90°.
 
 For each setup we report the comparison between the three array configuration used in the validation. Hence, I=4 with d=26mm,
@@ -21,7 +21,9 @@ and I=3, I=4 with d=52mm.
   </tr>
   <tr>
     <td>
-      Setup
+      Setup <br>
+      SOI=1 <br>
+      R=2
     </td>
     <td>
       <img src="examples/exs1/ds1/setup.png" title="setup" width="100%"/>
@@ -152,7 +154,9 @@ and I=3, I=4 with d=52mm.
   </tr>
   <tr>
     <td>
-      Setup
+      Setup <br>
+      SOI=1 <br>
+      R=3
     </td>
     <td>
       <img src="examples/exs2/ds1/setup.png" title="setup" width="100%"/>
@@ -283,7 +287,9 @@ and I=3, I=4 with d=52mm.
   </tr>
   <tr>
     <td>
-      Setup
+      Setup <br>
+      SOI=1 <br>
+      R=0
     </td>
     <td>
       <img src="examples/exs3/ds1/setup.png" title="setup" width="100%"/>
@@ -414,7 +420,9 @@ and I=3, I=4 with d=52mm.
   </tr>
   <tr>
     <td>
-      Setup
+      Setup <br>
+      SOI=1 <br>
+      R=1
     </td>
     <td>
       <img src="examples/exs4/ds1/setup.png" title="setup" width="100%"/>
@@ -545,7 +553,9 @@ and I=3, I=4 with d=52mm.
   </tr>
   <tr>
     <td>
-      Setup
+      Setup <br>
+      SOI=0 <br>
+      R=4
     </td>
     <td>
       <img src="examples/exs5/ds1/setup.png" title="setup" width="100%"/>
@@ -676,7 +686,9 @@ and I=3, I=4 with d=52mm.
   </tr>
   <tr>
     <td>
-      Setup
+      Setup <br>
+      SOI=0 <br>
+      R=3
     </td>
     <td>
       <img src="examples/exs6/ds1/setup.png" title="setup" width="100%"/>
